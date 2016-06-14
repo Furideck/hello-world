@@ -1,2 +1,2 @@
 # hello-world
-1st repo
+Hi ppl. I'm new to github. Still don't know what I'm doing here...
